@@ -1,0 +1,73 @@
+body{font-size:1rem;max-width:7.5rem;font-family:Arial,sans-serif;}
+.container{width:calc(100% - .3rem)} 
+
+.bg-white {background-color: #fff;}
+.bg-black{background-color: #000;}
+.bg-purple {background-color: #b76de0;}
+.bg-grey{background-color: #141720;}
+.bg-grey-1{background-color: #1b2029;}
+.bg-green, .bg-green-h:hover{ background-color: #43a262;}
+.bg-orange{background-color: #fe8d02;}
+
+.c-white{ color: #fff;}
+.c-grey, .c-grey-h:hover{ color: #979da3;}
+.c-grey-1, .c-grey-1-h:hover{ color: #708275;}
+.c-green, .c-green-h:hover{ color: #43a262;}
+
+ 
+/* swiper-slide +++++++++++++++++++++++++++++++++++++++++++++*/
+.swiper-notification{display: none;} 
+.swiper .swiper-slide{height: 0;}
+.swiper .swiper-slide-active{height: 100%;}
+
+.navigation-pagination-control{position: absolute;left: 0;bottom:.25rem;height: .3rem;z-index: 20; margin: 0 auto; text-align: center; }
+.navigation-pagination-control .swiper-pagination.my-pagination{clear: both;width: auto; height: .3rem; margin:0 auto; left:calc(50% - .3rem);  background:transparent;}
+.navigation-pagination-control .my-bullet{float: left;  width: .12rem;height: .12rem;margin-left: .1rem;border-radius: 100%;background:#6c7e71;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;-webkit-transform:scale(.8);-moz-transform:scale(.8);-o-transform:scale(.8);transform:scale(.8);}	
+.navigation-pagination-control .swiper-pagination-bullet-active{opacity: 1;-webkit-transform:scale(1);-moz-transform:scale(1);-o-transform:scale(1);transform:scale(1);background: #42be6d;}
+ 
+/* swiper-slide-tab +++++++++++++++++++++++++++++++++++++++++++++*/
+.swiper-slide-tab .tab-head .active{font-weight: 600;}
+.swiper-slide-tab .tab-content{width: 100%;}
+.swiper-slide-tab .tab-content .swiper-slide{height: 0;}
+.swiper-slide-tab .tab-content .swiper-slide-active{height: 100%;}
+
+ 
+
+header{width:100%;max-width: 7.5rem;height:1rem;position:fixed; top:0;z-index:9999;}
+header .l-box{width:calc(100% - 1.5rem);}
+header .l-box .a-logo{width: 3.2rem;height: .4rem;}
+header .r-box{width: 1.3rem;}
+header .r-box .button{width: .5rem;height: .5rem;margin-top: .25rem;}
+header .r-box .badge-box{width: .5rem;height: .5rem;margin-top: .25rem;}
+header .r-box .badge-box .badge-dot{width: .1rem;height: .1rem;position: absolute; right:0;top: 0;background-color: #f50036;}
+
+.section-2{margin-top: 1.2rem;}
+.section-2 .row-box .l-box{width:calc(100% - 1.7rem);background: rgb(18,23,31);background: linear-gradient(90deg, rgba(18,23,31,1) 41%, rgba(46,45,27,1) 100%);}
+.section-2 .row-box .l-box .us-avatar{width: .7rem;}
+.section-2 .row-box .l-box .r-div{width:calc(100% - .9rem);background: rgb(10,7,3);background: linear-gradient(90deg, rgba(10,7,3,1) 31%, rgba(43,31,11,1) 100%);}
+.section-2 .row-box .l-box .r-div .pic-img{width: .4rem;}
+.section-2 .row-box .l-box .r-div .box{width:calc(100% - 1.45rem); }
+.section-2 .row-box .l-box label{ width:calc(100% - .4rem);height: .66rem;line-height: .66rem;} 
+.section-2 .row-box .l-box button{height: .66rem;line-height: .66rem;border: #ffe46b solid 3px;}
+.section-2 .row-box .r-box{width: 1.45rem;}
+.section-2 .row-box .r-box .a-link{border: #f0c843 solid 1px;}
+
+.section-3{margin-top: .5rem;}
+.section-3 .swiper-pic-carousel{border-radius: .35rem;}
+.section-3 .time-box{width: 2rem;height: .3rem;position: absolute;left: 50%; z-index: 100;margin-left: -1rem; margin-top: -.3rem; color: #708275;background-repeat:no-repeat;  background-size:100% 100%;}
+ 
+.section-4{margin-top: .5rem;}
+.section-4{margin-bottom: 1rem; border-radius: .3rem .3rem 0 0;}
+.section-4 .swiper-slide-tab .tab-head{height: 1rem;}
+.section-4 .swiper-slide-tab .tab-head .active button{color: #43a262;}
+
+.section-4 .swiper-slide-tab .tab-content .l-box{width:calc(100% - 1.2rem);}
+.section-4 .swiper-slide-tab .tab-content .l-box .pic-img{width: 1.98rem;}
+.section-4 .swiper-slide-tab .tab-content .l-box .l-div{width:calc(100% - 2rem);}
+.section-4 .swiper-slide-tab .tab-content .l-box .h2{height: .8rem;}
+.section-4 .swiper-slide-tab .tab-content .l-box .label-text{background: #F0C843;background: linear-gradient(to bottom, #F0C843 40%, #449E61 79%);-webkit-background-clip: text;background-clip: text;-webkit-text-fill-color: transparent;}
+.section-4 .swiper-slide-tab .tab-content .r-box{width:1rem;}
+.section-4 .swiper-slide-tab .tab-content .r-box .a-link{border: #f0c843 solid 1px;}
+ 
+footer{width: 100%;max-width: 7.5rem;height:1rem; position:fixed;bottom:0;z-index:9999;border-top: #22252d solid 1px;background-color: #0b0d12;}
+footer .row-ul .a-link.active{color: #43a262;}

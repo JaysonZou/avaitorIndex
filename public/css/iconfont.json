@@ -1,0 +1,191 @@
+{
+  "id": "4717202",
+  "name": "路路发spin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3511936",
+      "name": "Me_Jackpot-",
+      "font_class": "Me_Jackpot-",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "5978796",
+      "name": "a-q",
+      "font_class": "zhinengwenda",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "10487577",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "10524278",
+      "name": "jackpot",
+      "font_class": "jackpot",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "29670853",
+      "name": "bonus",
+      "font_class": "bonus",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "32010884",
+      "name": "赚钱",
+      "font_class": "weibiaoti-1",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "37539309",
+      "name": "银行-L",
+      "font_class": "yinhang-L",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "4986904",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "6948652",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11893498",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "25854878",
+      "name": "添加",
+      "font_class": "tianjia1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "38592987",
+      "name": "桃花",
+      "font_class": "taohua",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6775641",
+      "name": "爱心 _实心",
+      "font_class": "aixin_shixin",
+      "unicode": "eca1",
+      "unicode_decimal": 60577
+    },
+    {
+      "icon_id": "6775644",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "eca2",
+      "unicode_decimal": 60578
+    },
+    {
+      "icon_id": "16681163",
+      "name": "铃铛小红点",
+      "font_class": "lingdangxiaohongdian-01",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "28443767",
+      "name": "ic_yangshi_铃铛提示",
+      "font_class": "ic_yangshi_lingdangtishi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "41901793",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "41945250",
+      "name": "铃铛_通用_1",
+      "font_class": "lingdang_tongyong_1",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "419400",
+      "name": "转盘设置",
+      "font_class": "zhuanpanshezhi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "774063",
+      "name": "火箭",
+      "font_class": "rocket",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "7754444",
+      "name": "slot machine.3",
+      "font_class": "slotmachine",
+      "unicode": "ea9f",
+      "unicode_decimal": 60063
+    },
+    {
+      "icon_id": "12870946",
+      "name": "slot--bold",
+      "font_class": "slot--bold",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "35393358",
+      "name": "slot-machine",
+      "font_class": "slot-machine",
+      "unicode": "ef2a",
+      "unicode_decimal": 61226
+    },
+    {
+      "icon_id": "35411653",
+      "name": "slot-machine",
+      "font_class": "slot-machine1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "38817786",
+      "name": "slot-machine",
+      "font_class": "slot-machine2",
+      "unicode": "e863",
+      "unicode_decimal": 59491
+    },
+    {
+      "icon_id": "40915767",
+      "name": "Slots",
+      "font_class": "Slots",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
