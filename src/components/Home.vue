@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  
+
 	<header class="bg-black">
 		<section>
 			<div class="container">
@@ -379,4 +379,8 @@ const count = ref(0)
 .time {
   background-image: url('./images/bg-time.png');
 }
+</style>
+<style scoped>
+@import './css/ds-sub.css';
+@import './css/DsGrid.css';
 </style>

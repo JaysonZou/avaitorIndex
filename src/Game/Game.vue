@@ -1722,6 +1722,12 @@ gamegenerate();
 // });
 // },1000);
 </script>
+<style scoped>
+@import '/css/bootstrap.css';
+</style>
+<style scoped>
+@import '/css/style.css';
+</style>
 
 <style>
 label.error {
@@ -2042,3 +2048,4 @@ body {
   border-color: #e69308 !important;
 }
 </style>
+

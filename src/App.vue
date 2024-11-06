@@ -1,8 +1,5 @@
-<script setup>
-import Home from './components/Home.vue'
-import Game from './Game/Game.vue'
-</script>
-
 <template>
-  <Game />
+  <div style="height: 100vh;" class="bg-black user-s-no dark-bg-main">
+  <RouterView />
+  </div>
 </template>
